@@ -10,16 +10,7 @@
 I’ve been working as a software tester Since 2019
 
 <br>
-I’m currently learning how to code
 <div>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg' alt='cypress' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'> <div/>
-<br>
-<br>
-<br>
- ** If you need more information please send me an <a href=mailto:sigifredopj@gmail.com>Email</a>**
- <br>
- 
-![Profile views](https://gpvc.arturio.dev/sigifredopj) <!--from arturssmirnovs -->
 <br>
 
 
